@@ -3,13 +3,13 @@
 แจกฟรีจำหน่ายพ่อตาย
 ## Command
 +img [1] [2] 
-[1] Web Img | [2] Tag
-rule34      | name image
-gelbooru    |
-yande       | 
-safebooru   |
-xbooru      |
-hypnohub    |
+>[1] Web Img | [2] Tag
+>rule34      | name image
+>gelbooru    |
+>yande       | 
+>safebooru   |
+>xbooru      |
+>hypnohub    |
 
 command +img webimg nameimg => +img yande cirno 
 
